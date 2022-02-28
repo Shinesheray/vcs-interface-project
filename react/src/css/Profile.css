@@ -1,0 +1,57 @@
+.profile-div {
+  text-align: left;
+  color: rgb(56, 56, 56);
+  padding: 20px;
+  border-radius: 15px;
+  border-top: 0px;
+  color: aliceblue;
+  cursor: default;
+}
+
+.pro-pic-div {
+  text-align: center;
+}
+
+.profile-picture {
+  border-radius: 9000px;
+  width: 100%;
+  margin-bottom: 40px;
+}
+.side-info {
+  margin-top: 15px;
+}
+.side-info button {
+  background-color: rgb(31, 160, 224);
+  color: rgb(255, 255, 255);
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+
+.side-info button:hover {
+  background-color: rgb(74, 181, 235);
+}
+
+.second-info {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+  color: rgb(56, 56, 56);
+}
+.second-info p {
+  margin: 0px;
+  color: rgb(56, 56, 56);
+}
+
+.instructions {
+  color: rgb(56, 56, 56);
+}
+
+.loading-div {
+  text-align: center;
+}
+.loadingGif {
+  height: 50px;
+  margin-top: 40px;
+}

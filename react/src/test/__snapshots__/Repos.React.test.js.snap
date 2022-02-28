@@ -1,0 +1,447 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders empty repos correctly 1`] = `<div />`;
+
+exports[`Renders full repos correctly 1`] = `
+<div>
+  <div>
+    <div
+      className="repo-block"
+    >
+      <div
+        className="repo-heading"
+      >
+        <p>
+          repo1
+           
+          <br />
+           
+          <span
+            className="repo-desc"
+          >
+            repo1Desc
+          </span>
+        </p>
+        <div
+          className="date-created-div"
+        >
+          <p>
+            Created - 
+            dd-mm-yy
+          </p>
+        </div>
+      </div>
+      <div
+        className="repo-commit-heading"
+      >
+        <p>
+          Commit History
+        </p>
+      </div>
+      <div
+        className="repo-commits"
+      >
+        <ul>
+          <li>
+            msg1
+          </li>
+          <li>
+            msg2
+          </li>
+          <li>
+            msg3
+          </li>
+          <li>
+            msg4
+          </li>
+          <li>
+            msg5
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="repo-block"
+    >
+      <div
+        className="repo-heading"
+      >
+        <p>
+          repo2
+           
+          <br />
+           
+          <span
+            className="repo-desc"
+          >
+            repo2Desc
+          </span>
+        </p>
+        <div
+          className="date-created-div"
+        >
+          <p>
+            Created - 
+            dd-mm-yy
+          </p>
+        </div>
+      </div>
+      <div
+        className="repo-commit-heading"
+      >
+        <p>
+          Commit History
+        </p>
+      </div>
+      <div
+        className="repo-commits"
+      >
+        <ul>
+          <li>
+            msg1
+          </li>
+          <li>
+            msg2
+          </li>
+          <li>
+            msg3
+          </li>
+          <li>
+            msg4
+          </li>
+          <li>
+            msg5
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="repo-block"
+    >
+      <div
+        className="repo-heading"
+      >
+        <p>
+          repo3
+           
+          <br />
+           
+          <span
+            className="repo-desc"
+          >
+            repo3Desc
+          </span>
+        </p>
+        <div
+          className="date-created-div"
+        >
+          <p>
+            Created - 
+            dd-mm-yy
+          </p>
+        </div>
+      </div>
+      <div
+        className="repo-commit-heading"
+      >
+        <p>
+          Commit History
+        </p>
+      </div>
+      <div
+        className="repo-commits"
+      >
+        <ul>
+          <li>
+            msg1
+          </li>
+          <li>
+            msg2
+          </li>
+          <li>
+            msg3
+          </li>
+          <li>
+            msg4
+          </li>
+          <li>
+            msg5
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="repo-block"
+    >
+      <div
+        className="repo-heading"
+      >
+        <p>
+          repo4
+           
+          <br />
+           
+          <span
+            className="repo-desc"
+          >
+            repo4Desc
+          </span>
+        </p>
+        <div
+          className="date-created-div"
+        >
+          <p>
+            Created - 
+            dd-mm-yy
+          </p>
+        </div>
+      </div>
+      <div
+        className="repo-commit-heading"
+      >
+        <p>
+          Commit History
+        </p>
+      </div>
+      <div
+        className="repo-commits"
+      >
+        <ul>
+          <li>
+            msg1
+          </li>
+          <li>
+            msg2
+          </li>
+          <li>
+            msg3
+          </li>
+          <li>
+            msg4
+          </li>
+          <li>
+            msg5
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="repo-block"
+    >
+      <div
+        className="repo-heading"
+      >
+        <p>
+          repo5
+           
+          <br />
+           
+          <span
+            className="repo-desc"
+          >
+            repo5Desc
+          </span>
+        </p>
+        <div
+          className="date-created-div"
+        >
+          <p>
+            Created - 
+            dd-mm-yy
+          </p>
+        </div>
+      </div>
+      <div
+        className="repo-commit-heading"
+      >
+        <p>
+          Commit History
+        </p>
+      </div>
+      <div
+        className="repo-commits"
+      >
+        <ul>
+          <li>
+            msg1
+          </li>
+          <li>
+            msg2
+          </li>
+          <li>
+            msg3
+          </li>
+          <li>
+            msg4
+          </li>
+          <li>
+            msg5
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Renders partial repos correctly 1`] = `
+<div>
+  <div>
+    <div
+      className="repo-block"
+    >
+      <div
+        className="repo-heading"
+      >
+        <p>
+          repo1
+           
+          <br />
+           
+          <span
+            className="repo-desc"
+          >
+            repo1Desc
+          </span>
+        </p>
+        <div
+          className="date-created-div"
+        >
+          <p>
+            Created - 
+            dd-mm-yy
+          </p>
+        </div>
+      </div>
+      <div
+        className="repo-commit-heading"
+      >
+        <p>
+          Commit History
+        </p>
+      </div>
+      <div
+        className="repo-commits"
+      >
+        <ul>
+          <li>
+            msg1
+          </li>
+          <li>
+            msg2
+          </li>
+          <li>
+            msg3
+          </li>
+          <li>
+            msg4
+          </li>
+          <li>
+            msg5
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="repo-block"
+    >
+      <div
+        className="repo-heading"
+      >
+        <p>
+          repo2
+           
+          <br />
+           
+          <span
+            className="repo-desc"
+          >
+            No Description
+          </span>
+        </p>
+        <div
+          className="date-created-div"
+        >
+          <p>
+            Created - 
+            dd-mm-yy
+          </p>
+        </div>
+      </div>
+      <div
+        className="repo-commit-heading"
+      >
+        <p>
+          Commit History
+        </p>
+      </div>
+      <div
+        className="repo-commits"
+      >
+        <ul>
+          <li>
+            msg1
+          </li>
+          <li>
+            msg4
+          </li>
+          <li>
+            msg5
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="repo-block"
+    >
+      <div
+        className="repo-heading"
+      >
+        <p>
+          repo3
+           
+          <br />
+           
+          <span
+            className="repo-desc"
+          >
+            
+          </span>
+        </p>
+        <div
+          className="date-created-div"
+        >
+          <p>
+            Created - 
+            dd-mm-yy
+          </p>
+        </div>
+      </div>
+      <div
+        className="repo-commit-heading"
+      >
+        <p>
+          Commit History
+        </p>
+      </div>
+      <div
+        className="repo-commits"
+      >
+        <ul />
+      </div>
+    </div>
+  </div>
+</div>
+`;

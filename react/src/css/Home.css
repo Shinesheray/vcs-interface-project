@@ -1,0 +1,109 @@
+.heading {
+  margin-bottom: 80px;
+  color: rgb(56, 56, 56);
+}
+
+.search-div {
+  margin-bottom: 20px;
+  padding: 5px;
+  display: inline-block;
+  width: 100%;
+}
+
+input {
+  background-color: rgba(240, 248, 255, 0.212);
+  width: 60%;
+  height: 25px;
+  text-align: center;
+  color: rgb(56, 56, 56);
+  height: 100%;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  padding: 0px;
+  margin-bottom: 50px;
+}
+
+.search-form {
+  height: 50px;
+  padding: 0px;
+  margin: 0px;
+}
+.fa-search {
+  color: white;
+}
+
+.search-btn {
+  border: none;
+  outline: none;
+  background-color: rgb(31, 160, 224);
+  padding: 2px 20px 2px 20px;
+  height: 100%;
+  border-radius: 0px 10px 10px 0px;
+}
+.search-btn img {
+  width: 30px;
+  background-color: rgb(31, 160, 224);
+}
+.search-btn:hover {
+  background-color: rgb(74, 181, 235);
+}
+.search-btn:focus {
+  outline: none;
+}
+
+.home {
+  margin: auto;
+  width: 80%;
+}
+
+#result-row {
+  background-color: rgba(255, 255, 255, 0.13);
+  margin-bottom: 50px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid rgb(31, 160, 224);
+  border-radius: 10px 10px 10px 10px;
+  color: rgb(56, 56, 56);
+}
+
+.result-block {
+  width: 100%;
+}
+.result-block:hover {
+  background-color: rgb(31, 160, 224);
+}
+
+.active-block {
+  background-color: rgb(102, 195, 241);
+}
+
+.active-block:hover p {
+  background-color: rgb(31, 160, 224);
+}
+
+.active-block p {
+  background-color: rgb(102, 195, 241);
+  color: white;
+}
+
+.result-title {
+  font-size: 110%;
+  font-weight: bold;
+  margin: 10px 0px 0px 0px;
+  padding: 0px;
+}
+
+.result-block p {
+  margin-top: 10px;
+}
+
+.result-block:hover p {
+  color: white;
+}
+
+.response-name:hover {
+  cursor: pointer;
+  font-weight: bold;
+}

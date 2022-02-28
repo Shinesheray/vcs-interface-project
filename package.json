@@ -1,0 +1,24 @@
+{
+  "name": "Capstone_VCS_API",
+  "version": "1.0.0",
+  "description": "Fullstack app pulling data from github/gitlab/bitbucket",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "mocha"
+  },
+  "author": "Shinesheray-Myeza",
+  "license": "",
+  "dependencies": {
+    "es6-promise": "4.2.8",
+    "express": "4.17.1",
+    "nodemon": "2.0.7",
+    "helmet": "4.5.0",
+    "isomorphic-fetch": "3.0.0",
+    "request": "2.88.2"
+  },
+  "devDependencies": {
+    "chai": "4.3.4",
+    "mocha": "8.3.2"
+  }
+}
